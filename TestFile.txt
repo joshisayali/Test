@@ -1,3 +1,5 @@
 editing . making some changes. Changes done from a branch. testing cloning. Branch from a clone. 
 
+Branch test2 commit 1 - this was from master by mistake.
+
 Branch test2 commit 1
