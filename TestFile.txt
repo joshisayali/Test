@@ -1,16 +1,1 @@
-editing . making some changes. Changes done from a branch. testing cloning. Branch from a clone. 
-
-
-Branch test2 commit 1
-
-Sed nec laoreet massa. Nam rutrum est eu augue facilisis cursus. Aliquam eu molestie dui. Suspendisse nec eros cursus, tincidunt ligula vitae, ullamcorper lorem. Pellentesque pretium magna tellus, et mattis turpis pellentesque tincidunt. Mauris nisi nisl, blandit vitae hendrerit porttitor, tincidunt ut sapien. Curabitur tortor lorem, feugiat et erat quis, pellentesque congue magna. Fusce a enim ac dolor molestie consectetur sed vel elit. Pellentesque sed pulvinar sapien. Praesent scelerisque nunc magna, eget eleifend orci volutpat et. Duis tortor eros, dignissim non rhoncus at, congue eget libero. Sed augue urna, tempus sed pulvinar sit amet, mollis sit amet diam. Mauris nibh nisl, ornare vel eros vel, lobortis sagittis urna. Aenean quis magna ac urna hendrerit eleifend.
-
-Branch test2 commit 1 - this was done from master
-
-Branch test3 commit1
-
-
-Testing branch test3 for rebase.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc velit ex, luctus sed aliquet id, efficitur at ex. Vestibulum facilisis magna nec neque placerat, sed consequat urna semper. Nunc consequat nulla eros, eget egestas tortor faucibus ac. Curabitur euismod, lacus eget suscipit vestibulum, massa leo commodo eros, at efficitur sem lorem in lacus. Sed nunc tortor, volutpat a dui at, consequat blandit turpis. Sed eu aliquam lectus. Donec vel scelerisque velit. Ut mattis justo ipsum, eu pulvinar mauris laoreet sit amet.
-
+Deleteing everything and starting fresh. 01/11/2019
