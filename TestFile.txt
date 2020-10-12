@@ -3,6 +3,9 @@ dev changes for R1
 stage bug fixes for R1
 
 dev changes for R2
+stage bug fix 1 for R2.
+stage bug fix 2 for R2.
+
 
 dev changes for R3 - 1
 dev changes for R3 - 2
